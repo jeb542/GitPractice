@@ -3,15 +3,19 @@
 ## This is an H2 title
 
 **I want regular text to be bold!**
+
 This is regular text. Sometimes I can *italicize* my text. 
 
 **I want regular text to be bold!**
+
 This is regular text. Sometimes I can *italicize* my text. 
 
 **I want regular text to be bold!**
+
 This is regular text. Sometimes I can *italicize* my text. 
 
 **I added this line!**
+
 I added this line too!
 
 | Tables        | Are           | Cool  |
